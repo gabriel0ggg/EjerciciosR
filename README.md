@@ -1,2 +1,2 @@
 # EjerciciosR
-Ejercicios de las actividades de Coursera
+Ejercicios de las actividades de Coursera para compartir
